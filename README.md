@@ -1,4 +1,6 @@
-# Marginal distributions and correation coefficient  
+## EX NO:03
+## DATE:27.4.22
+# <p align="center">Marginal distributions and correlation coefficient  
 
 # Aim : 
 
