@@ -30,8 +30,9 @@ Correlation coefficients are indicators of the strength of the linear relationsh
 # Program   
 
 # Developed by:
-# Register Number:212220230028
-# Name:Lishali.R
+# Register Number:212220230035
+# Name:Prasannakumar.M
+ 
  ```
 import math
 import numpy as np
